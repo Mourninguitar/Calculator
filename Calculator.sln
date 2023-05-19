@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppUI", "WebAppUI\WebAppUI.csproj", "{4DE61BE4-9288-41D5-8C3B-E63079067BC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLib", "CalculatorLib\CalculatorLib.csproj", "{CF86DC14-2984-491B-9AEA-96084B3331B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE61BE4-9288-41D5-8C3B-E63079067BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE61BE4-9288-41D5-8C3B-E63079067BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE61BE4-9288-41D5-8C3B-E63079067BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE61BE4-9288-41D5-8C3B-E63079067BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF86DC14-2984-491B-9AEA-96084B3331B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF86DC14-2984-491B-9AEA-96084B3331B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF86DC14-2984-491B-9AEA-96084B3331B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF86DC14-2984-491B-9AEA-96084B3331B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E81DC124-BDB6-4C1D-8565-24F6F9075526}
+	EndGlobalSection
+EndGlobal
